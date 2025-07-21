@@ -8,6 +8,10 @@
 
 This repository contains a comprehensive AI toolkit built as the capstone project for the "Building Generative AI-Powered Applications with Python" course by IBM on Coursera. It showcases the end-to-end development of a multi-functional AI application, from initial scripting in notebooks to a deployable, command-line accessible tool.
 
+## 🚀 Live Demo
+
+**You can try the live application here:** [https://huggingface.co/spaces/cozisoul/ai-vision-toolkit](https://huggingface.co/spaces/cozisoul/ai-vision-toolkit)
+
 ## Core Features
 
 1.  **Interactive Web App (`app.py`):** A user-friendly Gradio web interface with two distinct modes for real-time interaction:
