@@ -28,8 +28,8 @@ This repository contains a comprehensive AI toolkit built as the capstone projec
 
 *The interactive web application built with Gradio, showcasing its dual functionality.*
 
-![Image Captioning Demo](./captioning-screenshot.jpg)
-![Image Classification Demo](./classification-screenshot.jpg)
+![Image Captioning Demo](./images/captioning-screenshot.jpg)
+![Image Classification Demo](./images/classification-screenshot.jpg)
 
 ## Tech Stack
 
@@ -118,7 +118,7 @@ This project was a deep dive into the full lifecycle of an AI application. The j
 
 *   **Async Processing:** Convert the web scraping logic to be asynchronous to process images from a URL much faster.
 *   **Model Selection UI:** Allow the user to select different captioning models (e.g., BLIP vs. BLIP-2) from a dropdown in the Gradio app.
-*   **Cloud Deployment:** Deploy the containerized application to a cloud service like Hugging Face Spaces or AWS for a public, live URL.
+*   **Enhanced Interactivity:** Add VQA (Visual Question Answering) to allow users to ask specific questions about an image.
 
 ## License
 
